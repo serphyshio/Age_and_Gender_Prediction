@@ -1,6 +1,6 @@
 # Gender and Age Classification using CNN and DCNN
 
-This project implements a series of Convolutional Neural Networks (CNNs) and Deformable CNNs (DCNNs) to classify gender and age based on facial images. The models are built using PyTorch and are evaluated based on test accuracy over training epochs.
+This project implements a series of Convolutional Neural Networks (CNNs) and Deformable CNNs (DCNNs) to classify gender and age based on facial images. The models are built using PyTorch and are evaluated based on test accuracy.
 
 ## 📦 Models
 

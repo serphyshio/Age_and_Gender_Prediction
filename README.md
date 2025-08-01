@@ -13,7 +13,6 @@ A simple CNN that classifies gender (Male/Female) based on facial features.
 - **Activation**: Sigmoid
 - **Dropout**: 0.2 on both FC layers
 - **Test Accuracy**: **0.77**
-- **Prediction Rule**: Output > 0.5 → Male; otherwise → Female
 
 ---
 

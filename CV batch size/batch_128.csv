@@ -1,0 +1,6 @@
+val_accuracy
+tensor(0.7855)
+tensor(0.7762)
+tensor(0.7599)
+tensor(0.7782)
+tensor(0.7643)
